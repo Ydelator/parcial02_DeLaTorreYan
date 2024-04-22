@@ -1,5 +1,3 @@
-import React from 'react'
-
 const SongAdmin = () => {
   return (
     <div>SongAdmin</div>
