@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.preferredDarkColorTheme": "Visual Studio Dark",
+		"workbench.preferredHighContrastColorTheme": "Default High Contrast"
+	}
+	
+}
