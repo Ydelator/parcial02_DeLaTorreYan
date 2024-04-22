@@ -11,8 +11,7 @@ const Header = () => {
         <NavLink className="navbar-brand" to="/">
           <img src={Logo} alt="" style={{height:"50px"}}/>
         </NavLink>
-        <button
-          className="navbar-toggler"
+        <button className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNav"
